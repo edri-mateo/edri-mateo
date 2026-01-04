@@ -1,16 +1,14 @@
 # 🌼✨ Hi there! I'm Edrielle ✨🌼
 
 Welcome to my little corner of GitHub! 💛  
-I love making **fun projects, cute games, and creative code**.  
+I mainly make **fun (but totally useless) projects and cute games**.  
 
 ---
 
 ## 🌟 About Me
 
-- 🐠 Fishie & game enthusiast  
-- 💻 Python, Java, and JavaScript tinkerer  
-- 🎨 Love designing cute graphics & UI  
-- ☕ Powered by coffee and positive vibes
+- 💻 Computer Science Major
+- 🎨 Designs graphics & UI  
 
 ---
 
@@ -20,9 +18,8 @@ Here are some things I’ve been working on lately:
 
 | Project | Description |
 |---------|-------------|
-| **Home Fishie Home** | A cozy virtual aquarium where you clean, feed, and decorate your fish! 🐟✨ |
-| **Paws of Memory** | A cute memory game featuring adorable pets 🐶🐱 |
-| **[Your Project Name]** | Add a short cute description here 🌼 |
+| **Home Fishie Home** | A cozy virtual aquarium where you clean, feed, and collect different rarities of fish! |
+| **Pocket Postcards** | An interactive, pixel user exploration game where you can snap photos, change the background scenery, and turn your photos into written postcards. |
 
 *Check out more in my repositories!*
 <!--
