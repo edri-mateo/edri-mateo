@@ -6,7 +6,6 @@ I mainly make fun **(but totally useless)** projects and cute games.
 ## 🌟 About Me
 
 - 💻 Computer Science Major
-- 🎨 Designs graphics & UI  
 
 
 ## 💛 Projects
