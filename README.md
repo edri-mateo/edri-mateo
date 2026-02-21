@@ -1,7 +1,6 @@
 # 🌼✨ Hi there! I'm Edrielle ✨🌼
-
-Welcome to my little corner of GitHub! 💛  
-I mainly make fun **(but totally useless)** projects and cute games.  
+ 
+I mainly make fun **(but totally useless)** projects and cute games. 
 
 
 ## 🌟 About Me
