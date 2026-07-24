@@ -1,6 +1,6 @@
 # 🌼✨ Hi there! I'm Edrielle ✨🌼
  
-I mainly make fun **(but totally useless)** projects and cute games. 
+Out here making whatever the heck I want!!! 
 
 
 ## 🌟 About Me
