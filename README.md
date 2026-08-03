@@ -1,6 +1,6 @@
 # 🌼✨ Hi there! I'm Edrielle ✨🌼
  
-I just make whatever the heck I want
+I make things :)
 
 
 ## 🌟 About Me
